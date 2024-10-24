@@ -1,0 +1,1200 @@
+<application>
+  <component name="TemplateSettings">
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_if" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_elif" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_select" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_case" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_for" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_while" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_until" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_function" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string not equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string is empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_string not empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number not equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number less" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number less or equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number greater" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_number greater or equal" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file not empty" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file readable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file writable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file executable" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file equals" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file newer" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_file older" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_path exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_directory exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Shell Script Hidden" />
+          <option name="key" value="shell_command exists" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="sb" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="sbf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="sbfb" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="aop" />
+          <option name="key" value="aopautoproxycreator" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="aop" />
+          <option name="key" value="aopautoproxy" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="hibernatefactory" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="datasource" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="hibernatetm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="transactionmanager" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="jndids" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="jdopmf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="jdopmfproxy" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="jdotm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="jpoxpmf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="toplinklsf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="toplinktasa" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="toplinktm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="ibatisfactory" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="jpaemfb" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="jpacemf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="jpapum" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="jpapabpp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="jpapetpp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="jpatm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="intscheduler" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="crontrigger" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="scedulerfactorybean" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="simpletrigger" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="jdkscheduledtimertask" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="jdktimerfactorybean" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="ejblssb" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="ejbrssb" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="freemarker" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="placeholder" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="propertyoverrideconfigurer" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="resourcefb" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="commonslogfb" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="fieldretrfactory" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="listfactory" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="mapfactory" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="proprsfactory" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring" />
+          <option name="key" value="setfactory" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring webflow" />
+          <option name="key" value="webflowregistry" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring webflow" />
+          <option name="key" value="webflowexecutor" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring webflow" />
+          <option name="key" value="webflowbuildersevices" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring webflow" />
+          <option name="key" value="conversationservice" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring webflow" />
+          <option name="key" value="expressionparser" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring webflow" />
+          <option name="key" value="factorycreator" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="spring webflow" />
+          <option name="key" value="webflowexelistener" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Spring Dynamic Modules" />
+          <option name="key" value="osgisimpleservice" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Spring Dynamic Modules" />
+          <option name="key" value="osgimultiservice" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Spring Dynamic Modules" />
+          <option name="key" value="osgisimpleref" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Spring Dynamic Modules" />
+          <option name="key" value="osgimultiref" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Spring Dynamic Modules" />
+          <option name="key" value="osgibeannameref" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Spring Dynamic Modules" />
+          <option name="key" value="osgirefwithlistener" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Spring Dynamic Modules" />
+          <option name="key" value="osgisimplelist" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Spring Dynamic Modules" />
+          <option name="key" value="osgisimpleset" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Spring Dynamic Modules" />
+          <option name="key" value="osgilistwithcomp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Spring Dynamic Modules" />
+          <option name="key" value="osgisetwithcomparator" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="tldTag" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="jsf" />
+          <option name="key" value="tldFunction" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Kotlin" />
+          <option name="key" value="object" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="anfn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="bnd" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="cas" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="useStateSnippet" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="useRefSnippet" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="useReducerSnippet" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="useMemoSnippet" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="useLayoutEffectSnippet" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="useImperativeHandleSnippet" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="useEffectSnippet" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="useContextSnippet" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="useCallbackSnippet" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="tsrpce" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="tsrpc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="tsrnfs" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="tsrnf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="tsrfce" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="tsrfc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="tsrcredux" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="tsrce" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="tsrcc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="tsrafce" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="tsrafc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="tpf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="tita" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="tit" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="testa" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="test" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="sto" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="sti" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="stest" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="state" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="sst" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ssf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="srtest" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="sntest" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="snrtest" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="scu" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rxslice" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rxselect" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rxreducer" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rxconst" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rxaction" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rpcp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rpce" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rpc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rnstyle" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rnpce" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rnpc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rnfs" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rnfes" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rnfe" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rnf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rncs" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rnce" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rnc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rmcp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rmc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rfcreduxp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rfcredux" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rfcp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rfce" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rfc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="reduxmap" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="redux" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rcreduxp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rcredux" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rcontext" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rconst" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rcep" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rce" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rccp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rcc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rafcp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rafce" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="rafc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptsr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptshr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptsh" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="pts" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptor" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptoor" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptoo" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="pto" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptnr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptndr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptnd" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptir" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="pti" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptfr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptexr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptex" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptetr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptet" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="pter" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptelr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptel" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="pte" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptbr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptb" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptar" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptaor" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptao" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ptany" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="pta" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="pse" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="props" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="prom" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="pge" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="nfn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="met" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imrr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imrpcp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imrpc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imrn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imrmp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imrm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imrd" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imrcp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imrc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="impt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imn" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ime" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imd" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imbrs" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imbrnl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imbrl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imbrc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="imbr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ima" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="hocredux" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="hoc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="gsbu" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="gdsfp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="fre" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="fof" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="fin" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="exptp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="expint" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="exp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="exd" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="exa" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="est" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="enf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ednf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="edf" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="dob" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="desc" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="dar" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="cwun" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="cwa" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ctr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ctm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ctl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="cte" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="cs" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="cref" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="cp" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="cmmb" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="clo" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="clj" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="clg" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="cin" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="cgr" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="cge" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="cer" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="cdup" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="cdm" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="cdi" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="cco" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Modern React" />
+          <option name="key" value="ccl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_subgraph" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_loop" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_alt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_opt" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_par" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_par_over" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_rect" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_critical" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_break" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_box" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_section" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_requirement" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_functionalRequirement" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_interfaceRequirement" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_performanceRequirement" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_physicalRequirement" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_designConstraint" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_element" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_git_graph_id" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_git_graph_tag" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_git_graph_type" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_git_graph_msg" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_c4_simple" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_c4_boundary" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_note" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_namespace" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_codeFence" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Mermaid Hidden" />
+          <option name="key" value="mermaid_block" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Maven" />
+          <option name="key" value="dep" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Maven" />
+          <option name="key" value="pl" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="Maven" />
+          <option name="key" value="repo" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="React" />
+          <option name="key" value="rsf" />
+        </TemplateKey>
+      </list>
+    </option>
+  </component>
+</application>

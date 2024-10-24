@@ -1,0 +1,35 @@
+<templateSet group="JavaScript">
+  <template name="cns" value="console.log($END$);" description="console.log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="clsn" value="className={``}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="importt" value="import { t } from 'i18next'" description="import { t } from 'i18next'" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="MODERN REACT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="rfc" value="export function $TM_FILENAME_BASE$ () {&#10;    return (&#10;        &lt;div&gt;&#10;            $END$&#10;        &lt;/div&gt;&#10;    )&#10;}" description="React functional component with name" toReformat="false" toShortenFQNames="true">
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="urfc" value="&quot;use client&quot;;&#10;&#10;import React from 'react';&#10;&#10;function $TM_FILENAME_BASE$ () {&#10; return (&#10;  &lt;&gt;&#10;    $1$&#10;  &lt;/&gt;&#10; );}&#10;&#10;export default $TM_FILENAME_BASE$;" description="use client rfc" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="" alwaysStopAt="true" />
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="MODERN REACT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

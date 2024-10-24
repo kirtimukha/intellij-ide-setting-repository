@@ -1,0 +1,10 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="172.30.82.31" id="fc1ba800-14a9-4ba8-ac0b-3fa913c5232c" port="22" nameFormat="DESCRIPTIVE" username="stella" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="139.150.90.82" id="3bf89650-e9c7-40ac-b982-24911e27daf6" port="3222" customName="idc_dev" nameFormat="CUSTOM" username="stella" useOpenSSHConfig="true">
+        <option name="customName" value="idc_dev" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>

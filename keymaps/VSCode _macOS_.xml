@@ -1,0 +1,36 @@
+<keymap version="1" name="VSCode (macOS) 복사" parent="VSCode OSX">
+  <action id="ActivateRemoteHostToolWindow">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="alt delete" />
+  </action>
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="meta delete" />
+  </action>
+  <action id="Git.Commit.Stage">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NewScratchFile" />
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="WebDeployment.Configuration">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="WebDeployment.Options">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+</keymap>

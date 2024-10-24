@@ -1,0 +1,34 @@
+<templateSet group="TypedReact">
+  <template name="rfc" value="export function $TM_FILENAME_BASE$ () {&#10;    return (&#10;        &lt;div&gt;&#10;            $END$&#10;        &lt;/div&gt;&#10;    )&#10;}" description="React Functional Component" toReformat="true" toShortenFQNames="true">
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="useq" value="&#10;  const {isLoading: loading$VARCap$} = useQuery(&#10;    [&quot;$VAR$&quot;],&#10;    ()=&gt;{},&#10;    {&#10;      &#10;    }&#10;  )" description="react useQuery" toReformat="false" toShortenFQNames="true">
+    <variable name="VARCap" expression="capitalize(VAR)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="MODERN REACT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="user" value="const [$VAR$, set$VAR_SET$] = useRecoilState($DEFAULT_VAL$);$END$" description="useRecoilState" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_SET" expression="capitalize(VAR)" defaultValue="" alwaysStopAt="true" />
+    <variable name="DEFAULT_VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="MODERN REACT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="skt" value="&lt;SkeletonTheme baseColor={`#202020`} highlightColor={`#444`}&gt;&lt;Skeleton count={$END$}/&gt;&lt;/SkeletonTheme&gt;" description="skeletonTheme" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="MODERN REACT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,34 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="14f0408a-40c9-463d-aba9-fa8df928aa44" name="php_ci_idc_dev" url="http://combatarms-c-br.stella.dev.valofe.com">
+        <fileTransfer rootFolder="/home/valofe/stella/work/combatarms-c-br" accessType="SFTP" host="139.150.90.82" port="3222" sshConfigId="3bf89650-e9c7-40ac-b982-24911e27daf6" sshConfig="idc_dev">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e9e0aef0-37fd-407d-b6aa-86a2dad9598a" name="r2beat-ko" url="http://r2beat-ko.stella.dev.valofe.com">
+        <fileTransfer rootFolder="/home/VALOFES/stella/work/r2beat-ko" accessType="SFTP" host="172.30.82.31" port="22" sshConfigId="fc1ba800-14a9-4ba8-ac0b-3fa913c5232c" sshConfig="stella@172.30.82.31:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="854514ec-b2d8-4c23-9f42-4d4a51a6ba29" name="icarus-na" url="http://icarus-na.stella.dev.valofe.com">
+        <fileTransfer rootFolder="/home/valofe/stella/work/c9-golden" accessType="SFTP" host="139.150.90.82" port="3222" sshConfigId="3bf89650-e9c7-40ac-b982-24911e27daf6" sshConfig="idc_dev">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3862d0b0-8f9b-4dc1-b04a-0ed86972ce18" name="o2jam-remix-test" url="http://o2jam-remix-test.stella.dev.valofe.com">
+        <fileTransfer rootFolder="/home/valofe/stella/work/o2jam-remix-test" accessType="SFTP" host="139.150.90.82" port="3222" sshConfigId="3bf89650-e9c7-40ac-b982-24911e27daf6" sshConfig="idc_dev">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

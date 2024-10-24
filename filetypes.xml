@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="19">
+    <extensionMap>
+      <mapping pattern=".env.development" type="AUTO_DETECTED" />
+      <mapping pattern=".env.production" type="AUTO_DETECTED" />
+      <mapping pattern=".env.swp" type="Native" />
+      <mapping pattern=".env.production.gl1" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev.gl" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development.env.development.env.development.development" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production1.gl" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production.gl" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="back" type="PLAIN_TEXT" />
+      <mapping ext="real" type="PLAIN_TEXT" />
+      <mapping ext="back0905" type="XHTML" />
+      <mapping ext="html" type="XHTML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+    </extensionMap>
+  </component>
+</application>
