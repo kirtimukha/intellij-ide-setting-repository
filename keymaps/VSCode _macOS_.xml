@@ -5,6 +5,12 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="meta i" />
+    <keyboard-shortcut first-keystroke="alt escape" />
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="meta space" />
+  </action>
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="alt delete" />
   </action>
