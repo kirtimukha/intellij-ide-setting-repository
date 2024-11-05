@@ -7,6 +7,7 @@
       <mapping pattern=".env.production.gl1" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev.gl" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.env.development.env.development.development" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env.production1.gl" type="PLAIN_TEXT" />
       <mapping pattern=".env.production.gl" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
