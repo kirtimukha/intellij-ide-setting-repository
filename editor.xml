@@ -20,6 +20,7 @@
     <option name="AUTOREPARSE_DELAY" value="0" />
   </component>
   <component name="EditorSettings">
+    <option name="IS_FOLDING_ENDINGS_SHOWN" value="true" />
     <option name="BIDI_TEXT_DIRECTION" value="LTR" />
   </component>
   <component name="InlayHintsSettings">
