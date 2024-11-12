@@ -38,6 +38,7 @@
     <option name="COLON_MOVE_OUTSIDE_QUOTES" value="true" />
     <option name="COMMA_MOVE_OUTSIDE_QUOTES" value="true" />
   </component>
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" />
   <component name="PhpEditorOptions">
     <option name="SHOW_CLASS_SEPARATORS" value="true" />
     <option name="ALWAYS_ENABLE_PHP_BACKGROUND_HIGHLIGHTING" value="true" />
