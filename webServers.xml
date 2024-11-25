@@ -15,8 +15,8 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="854514ec-b2d8-4c23-9f42-4d4a51a6ba29" name="icarus-na" url="http://icarus-na.stella.dev.valofe.com">
-        <fileTransfer rootFolder="/home/valofe/stella/work/c9-golden" accessType="SFTP" host="139.150.90.82" port="3222" sshConfigId="3bf89650-e9c7-40ac-b982-24911e27daf6" sshConfig="idc_dev">
+      <webServer id="854514ec-b2d8-4c23-9f42-4d4a51a6ba29" name="icarus-na" url="http://nage.stella.dev.valofe.com">
+        <fileTransfer rootFolder="/home/valofe/stella/work/nage" accessType="SFTP" host="139.150.90.82" port="3222" sshConfigId="3bf89650-e9c7-40ac-b982-24911e27daf6" sshConfig="idc_dev">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
           </advancedOptions>
